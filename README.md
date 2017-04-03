@@ -18,7 +18,7 @@ The scripts in this folder are used to fit relationships between seroprevalence 
 * `0_relationship_R0_AR.R`
 * `1_params_random_draws.R`
 * `2_fit_attackrate_random_draws.R`
-* `3_scematics_curve.R`
+* `3_schematics_curve.R`
 
 ### code/maps folder
 
