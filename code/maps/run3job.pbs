@@ -2,7 +2,7 @@
 
 #$ -r y
 #$  -o ../generated/OUT.log
-#$  -t 1-2
+#$  -t 1-1000
 #$ -e ERR.log
 #$ -pe smp 4
 

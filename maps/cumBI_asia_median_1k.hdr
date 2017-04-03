@@ -1,0 +1,16 @@
+ENVI description = {File Resize Result, x resize factor: 1.000000, y resize factor: 1.000000. [Sun Nov 05 11:08:48 2012]}
+samples = 1924
+lines = 1155
+bands = 1
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+sensor type = Unknown
+byte order  = 0
+x start = 1
+y start = 1
+map info = {Geographic Lat/Lon, 1.0000, 1.0000,60.87816,37.09018,0.041666667,0.041666667, WGS-84, units=Meters}
+wavelength units = Unknown
+data ignore value = -9999
+band names = {Resize (Band 1:tmin_1.bil)}
