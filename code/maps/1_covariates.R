@@ -6,7 +6,7 @@ library(raster)
 library(fields)
 
 setwd ("~/Dropbox/zika_asia/code/maps")
-source("0_numfunction.R")
+source("0_numfunctions.R")
 
 world25 = read.csv(paste("../../data/wpopgpw_asia2015.csv",sep=""),header=T)
 asia2_5(world25,paste("../../data/wpopAsia_gpw_2_5m",sep=""),-180,90,8640,4320)
